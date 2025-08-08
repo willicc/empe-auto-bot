@@ -1,4 +1,4 @@
-# empe-auto-send
+# empe-auto-bot
 # 10 star for upload 
 testnet empe auto send addres ,auto delegate,and auto claim reward full
 
