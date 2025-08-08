@@ -1,0 +1,16 @@
+{
+  "name": "empe-auto-bot",
+  "version": "1.0.0",
+  "description": "Bot EMPE (Cosmos SDK) testnet",
+  "main": "run.js",
+  "type": "module",
+  "scripts": {
+    "start": "node run.js"
+  },
+  "dependencies": {
+    "@cosmjs/proto-signing": "^0.34.0",
+    "@cosmjs/stargate": "^0.34.0",
+    "chalk": "^4.1.2",
+    "dotenv": "^17.2.1"
+  }
+}
