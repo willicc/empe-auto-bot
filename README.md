@@ -1,3 +1,4 @@
+# gas 1 star lagi up 
 # empe-auto-bot
 # 10 star for upload 
 testnet empe auto send addres ,auto delegate,and auto claim reward full
